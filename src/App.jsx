@@ -1,10 +1,12 @@
 import React from 'react'
-import Home from './component/home'
+import Navbar from './components/Navbar'
 
 function App() {
   return (
     <div>
-      <Home />
+      {/* <Home /> */}
+      <Navbar />
+
     </div>
   )
 }
