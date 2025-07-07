@@ -9,7 +9,7 @@ function Navbar() {
         <h1 className="text-xl font-bold">🏋️ FitTrack</h1>
         <ul className="flex space-x-4">
           <li><Link to="/">Home</Link></li>
-          <li><Link to="/add-plan">Workout Plan</Link></li>
+          <li><Link to="/AddWorkoutPlan">Workout Plan</Link></li>
           <li><Link to="/add-diet">Diet Log</Link></li>
           <li><Link to="/progress">Progress</Link></li>
           <li><Link to="/share">Share</Link></li>
