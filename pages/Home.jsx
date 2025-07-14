@@ -21,6 +21,7 @@ function Home() {
          <Link to="/progress" className="bg-purple-400 text-white px-6 py-2 rounded-xl shadow hover:bg-purple-700 transition">
           Social sharing
         </Link>
+        
       </div>
     </div>
   );
